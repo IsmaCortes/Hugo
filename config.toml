@@ -1,4 +1,4 @@
-baseURL = 'http://example.org/'
+baseURL = 'https://ismacortes.github.io/Hugo/'
 languageCode = 'en-us'
 title = 'Página real'
 theme = 'hugo-PaperMod-master'

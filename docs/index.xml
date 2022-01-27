@@ -2,26 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Página real</title>
-    <link>http://example.org/</link>
+    <link>https://ismacortes.github.io/Hugo/</link>
     <description>Recent content on Página real</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 21 Jan 2022 12:29:43 +0100</lastBuildDate><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 21 Jan 2022 12:29:43 +0100</lastBuildDate><atom:link href="https://ismacortes.github.io/Hugo/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Estosiesunpost2lavenganza</title>
-      <link>http://example.org/posts/estosiesunpost2lavenganza/</link>
+      <link>https://ismacortes.github.io/Hugo/posts/estosiesunpost2lavenganza/</link>
       <pubDate>Fri, 21 Jan 2022 12:29:43 +0100</pubDate>
       
-      <guid>http://example.org/posts/estosiesunpost2lavenganza/</guid>
+      <guid>https://ismacortes.github.io/Hugo/posts/estosiesunpost2lavenganza/</guid>
       <description>Imagen:</description>
     </item>
     
     <item>
       <title>Contacto</title>
-      <link>http://example.org/contacto/contacto/</link>
+      <link>https://ismacortes.github.io/Hugo/contacto/contacto/</link>
       <pubDate>Fri, 21 Jan 2022 12:11:00 +0100</pubDate>
       
-      <guid>http://example.org/contacto/contacto/</guid>
+      <guid>https://ismacortes.github.io/Hugo/contacto/contacto/</guid>
       <description>Email: correofalso123@gmail.com
 Twitter: Cuentafalsa123
 Facebook: Cuentafalsa123
@@ -30,19 +30,19 @@ Instagram: Cuentafalsa123</description>
     
     <item>
       <title>Estosiesunpost1</title>
-      <link>http://example.org/posts/estosiesunpost1/</link>
+      <link>https://ismacortes.github.io/Hugo/posts/estosiesunpost1/</link>
       <pubDate>Fri, 21 Jan 2022 12:11:00 +0100</pubDate>
       
-      <guid>http://example.org/posts/estosiesunpost1/</guid>
-      <description>algo no ofensivo 2</description>
+      <guid>https://ismacortes.github.io/Hugo/posts/estosiesunpost1/</guid>
+      <description>algo no ofensivo 3</description>
     </item>
     
     <item>
       <title>Post1</title>
-      <link>http://example.org/post1/</link>
+      <link>https://ismacortes.github.io/Hugo/post1/</link>
       <pubDate>Fri, 21 Jan 2022 12:10:33 +0100</pubDate>
       
-      <guid>http://example.org/post1/</guid>
+      <guid>https://ismacortes.github.io/Hugo/post1/</guid>
       <description>eyyeyeyeyeyeyeyey</description>
     </item>
     
